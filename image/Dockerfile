@@ -4,7 +4,7 @@
 # to `latest`! See
 # https://github.com/phusion/baseimage-docker/blob/master/Changelog.md
 # for a list of version numbers.
-FROM phusion/baseimage:0.9.13
+FROM phusion/baseimage:0.9.15
 
 
 # Set correct environment variables.
